@@ -1,0 +1,1 @@
+<p>Copyright &copy;<?php echo date("Y"); ?><br />Designed by <a href="mailto:tembafrank@gmail.com" style="text-decoration:none;">Franklin Temba</a></p>
